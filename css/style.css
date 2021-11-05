@@ -32,7 +32,7 @@ body{overflow:hidden;}
   width: 40px;
   height: 40px;
   z-index: 9;
-  background-image: url(../svg/logo_white.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/T-Y-P/404geometry@1.0/svg/logo_white.svg);
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: 10px 7px;
@@ -62,19 +62,19 @@ body{overflow:hidden;}
   transition: all 0.8s ease;
 }
 .about .social.portfolio .icon {
-  background-image: url(../svg/link.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/T-Y-P/404geometry@1.0/svg/link.svg);
 }
 .about .social.dribbble {
   transition: all 0.3s ease;
 }
 .about .social.dribbble .icon {
-  background-image: url(../svg/dribbble.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/T-Y-P/404geometry@1.0/svg/dribbble.svg);
 }
 .about .social.linkedin {
   transition: all 0.8s ease;
 }
 .about .social.linkedin .icon {
-  background-image: url(../svg/linkedin.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/T-Y-P/404geometry@1.0/svg/linkedin.svg);
 }
 .about:hover {
   width: 105px;
